@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(147, 59, 158);
+    align-items: center;
+    text-align: center;
+}
+header{
+    
+}
+
+main{
+
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
